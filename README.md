@@ -1,7 +1,7 @@
 # Warp Zone, Udyam 2017  
 ## Garden Chase 
 
-![](https://github.com/Udyam-Warp-Zone-Event/Space-Warp/raw/master/Screenshots/1.png)
+![](https://github.com/Udyam-Warp-Zone-Event/Garden-Chase/raw/master/Screenshots/1.png)
 
 ### Description:
 A 2D Side Scrolling game
@@ -28,14 +28,14 @@ To run this game:
 * Dodge enemies and obstacles and try to survive the longest
 
 ### Screenshots:
-![](https://github.com/Udyam-Warp-Zone-Event/Space-Warp/raw/master/Screenshots/2.png)
+![](https://github.com/Udyam-Warp-Zone-Event/Garden-Chase/raw/master/Screenshots/2.png)
 
-![](https://github.com/Udyam-Warp-Zone-Event/Space-Warp/raw/master/Screenshots/3.png)
+![](https://github.com/Udyam-Warp-Zone-Event/Garden-Chase/raw/master/Screenshots/3.png)
 
 
 ### Developed by: 
 Team Vision:
-Vishal Singh
-Vishal Shekhar Singh
+Vishal Singh  
+Vishal Shekhar Singh  
 Ujjwal Khare 
 
